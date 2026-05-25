@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+# Node / Capacitor
+node_modules/
+capacitor/ios/
+capacitor/node_modules/
+capacitor/www/
+capacitor/package-lock.json
+# IDE
+.vscode/
+.idea/
+*.swp
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
